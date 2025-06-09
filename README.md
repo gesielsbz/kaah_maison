@@ -1,5 +1,5 @@
-# kaah_maison
-Projeto ERP para a loja Kaah Maison (Java, React Native, PostgreSQL)
+# Kaah Maison
+ERP project for Kaah Maison store (Java, React Native, PostgreSQL)
 
 
 # Authentication API
